@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\bin\Debug\LINQpractice.exe.config
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\bin\Debug\LINQpractice.exe
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\bin\Debug\LINQpractice.pdb
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\obj\Debug\LINQpractice.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\obj\Debug\LINQpractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\obj\Debug\LINQpractice.exe
+C:\Users\HP\Desktop\New folder\LINQpractice\LINQpractice\obj\Debug\LINQpractice.pdb

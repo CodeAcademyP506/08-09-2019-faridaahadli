@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\bin\Debug\ENUMpractice.exe.config
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\bin\Debug\ENUMpractice.exe
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\bin\Debug\ENUMpractice.pdb
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\obj\Debug\ENUMpractice.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\obj\Debug\ENUMpractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\obj\Debug\ENUMpractice.exe
+C:\Users\HP\Desktop\New folder\ENUMpractice\ENUMpractice\obj\Debug\ENUMpractice.pdb
